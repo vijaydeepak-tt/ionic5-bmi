@@ -1,5 +1,5 @@
 {
-  "appId": "io.ionic.starter",
+  "appId": "io.ionic.bmi_starter",
   "appName": "ionic-react",
   "bundledWebRuntime": false,
   "npmClient": "npm",
